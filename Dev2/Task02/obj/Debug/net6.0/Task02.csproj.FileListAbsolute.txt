@@ -1,0 +1,15 @@
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\bin\Debug\net6.0\Task02.exe
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\bin\Debug\net6.0\Task02.deps.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\bin\Debug\net6.0\Task02.runtimeconfig.json
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\bin\Debug\net6.0\Task02.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\bin\Debug\net6.0\ref\Task02.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\bin\Debug\net6.0\Task02.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.csproj.AssemblyReference.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.AssemblyInfoInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.AssemblyInfo.cs
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\ref\Task02.dll
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.pdb
+C:\Users\Ирина\Desktop\УЧЕБА\Разработчик\C#\Verification work\Dev2\Task02\obj\Debug\net6.0\Task02.genruntimeconfig.cache
