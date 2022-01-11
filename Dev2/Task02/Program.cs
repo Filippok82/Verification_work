@@ -21,7 +21,7 @@ void PrintArray(int[] array)  // Распечатка массива
     Console.WriteLine();
 }
 
-int[] SearchEven(int[] array)  // Поиск элементов больше 8 в  массиве А и помещение в массив Б
+int[] SearchElement(int[] array)  // Поиск элементов больше 8 в  массиве А и помещение в массив Б
 {
     int n = 0;
     int j = 0;
@@ -46,8 +46,8 @@ int[] SearchEven(int[] array)  // Поиск элементов больше 8 �
     return arrayB; 
 }
 
- FillArray(arrayA);
+FillArray(arrayA);
 Console.Write("Первоначальный массив:");
 PrintArray(arrayA);
 Console.Write("Массив из элементов, больше 8:");
-PrintArray(SearchEven(arrayA)); 
+PrintArray(SearchElement(arrayA)); 
