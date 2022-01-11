@@ -24,7 +24,7 @@ void PrintArray(int[] array)  // Распечатка массива
     Console.WriteLine();
 }
 
-int[] SearchEven(int[] array)  // Поиск четных элементов в  массиве А и помещение в массив Б
+int[] SearchEven(int[] array)  // Поиск четных элементов и определение длины массива В
 {
     int n = 0;
     int j = 0;
@@ -35,7 +35,7 @@ int[] SearchEven(int[] array)  // Поиск четных элементов в 
             n++;
         }
     }
-    int[] arrayB = new int[n];
+    int[] arrayB = new int[n]; //Создание массива В
     for(int i=0; i<array.Length;i++)
     {
         if(array[i]%2==0) 
