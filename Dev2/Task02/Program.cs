@@ -21,7 +21,7 @@ void PrintArray(int[] array)  // Распечатка массива
     Console.WriteLine();
 }
 
-int[] SearchElement(int[] array)  // Поиск элементов больше 8 в  массиве А и помещение в массив Б
+int[] SearchElement(int[] array)  // Поиск элементов больше 8 и определение длины массива В
 {
     int n = 0;
     int j = 0;
@@ -32,7 +32,7 @@ int[] SearchElement(int[] array)  // Поиск элементов больше 
             n++;
         }
     }
-    int[] arrayB = new int[n];
+    int[] arrayB = new int[n]; //Создание массива В
     for(int i=0; i<array.Length;i++)
     {
         if(array[i]>8) 
